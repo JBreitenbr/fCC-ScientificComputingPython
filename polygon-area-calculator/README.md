@@ -61,8 +61,3 @@ Square(side=4)
 8
 ```
 
-The unit tests for this project are in `test_module.py`.
-
-<br>
-
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
