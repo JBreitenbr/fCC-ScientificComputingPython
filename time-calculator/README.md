@@ -1,4 +1,4 @@
-## Time Calculator
+# Time Calculator
 
 ## Project Description
 
