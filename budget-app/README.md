@@ -1,3 +1,5 @@
+## Budget App
+
 ## Project Description
 
 ### Assignment
