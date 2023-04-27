@@ -50,3 +50,6 @@ The function will return the correct conversion if the supplied problems are pro
     - Numbers should be right-aligned.
     - There should be four spaces between each problem.
     - There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+
+## My solution is also available on:
+https://replit.com/@JBreitenbr/arithmetic-formatter?s=app
