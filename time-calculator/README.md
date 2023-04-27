@@ -1,4 +1,6 @@
-# Project Description
+## Time Calculator
+
+## Project Description
 
 ### Assignment
 
